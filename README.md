@@ -20,7 +20,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ## Rapidfire  
 - 🌱 I’m currently learning TypeScript & DevOps Technologies  
-  
+   
 
 - ❓ Ask me about anything related to MERN Stack and related technologies  
   
