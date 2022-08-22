@@ -15,7 +15,7 @@
 ## Glad to see you here!  
 I'm a Full-Stack Developer which allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
-I ought to specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.     
+I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.     
 
 
 ## Rapidfire  
@@ -25,7 +25,7 @@ I ought to specialize in building robust backends that do all the heavy lifting 
 - ❓ Ask me about anything related to MERN Stack and related technologies  
   
 
-- ⚡ Fun fact: I use Arch :)  
+- ⚡ Fun fact: I began developing SW at the age of 12  
 
 
 ## Languages and Tools  
