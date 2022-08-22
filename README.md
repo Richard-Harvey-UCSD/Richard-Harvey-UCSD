@@ -25,7 +25,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - ❓ Ask me about anything related to MERN Stack and related technologies  
   
 
-- ⚡ Fun fact: I began developing SW at the age of 12  
+- ⚡ Fun fact: I've been developnig SW for over 20 years!
 
 
 ## Languages and Tools  
