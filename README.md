@@ -1,5 +1,6 @@
 <p align="center">  
-  <h1 align="center">Hello there!👋, I'm Richard Harvey</h1>
+  <h1 align="center">👋, Hello there! I'm Richard Harvey</h1>
+  <h1 align="center">I'm Richard Harvey</h1>
 </p>
 <p align="center">  
   <a href="https://twitter.com/Mr_Rich_Harvey" target="_blank">
